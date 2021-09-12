@@ -1,0 +1,64 @@
+body{
+  background-image: url('/images/repeated-square.png');
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.container-s{
+  background-color: white;
+  max-width: 400px;
+  height: auto;
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.container-s h2{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  padding-bottom: 20px;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  
+}
+
+.container-s input{
+  border-radius: 5px;
+  width: 300px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  border:1px solid #ccc;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-s input:hover{
+  border:1px solid rgb(10, 6, 6);
+}
+
+.container-s button{
+  margin-bottom: 25px;
+  margin-top: 5px;
+  background-color: #5d8ffc;
+  color: #fff;
+  border: 1px solid #5d8ffc;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-s button:hover{
+  background-color: #fff;
+  color: #5d8ffc;
+  border: 1px solid #5d8ffc;
+}
+
+
+
